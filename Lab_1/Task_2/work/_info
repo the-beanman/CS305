@@ -1,0 +1,67 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Users\Sean\Documents\GitHub\CS305\Lab_1\Task_2
+Etest_wgen1
+Z1 w1615887001
+Z2 dE:\Users\Sean\Documents\GitHub\CS305\Lab_1\Task_2
+Z3 8E:/Users/Sean/Documents/GitHub/CS305/Lab_1/Task_2/test_wgen1.vhd
+Z4 FE:/Users/Sean/Documents/GitHub/CS305/Lab_1/Task_2/test_wgen1.vhd
+l0
+L2
+VY=g<Lc6FT9]N8KHXYoZ]G2
+!s100 dal3DbhKLcWD`ifSS3fXL0
+Z5 OV;C;10.1d;51
+32
+!i10b 1
+Z6 !s108 1615892301.489000
+Z7 !s90 -reportprogress|300|-work|work|E:/Users/Sean/Documents/GitHub/CS305/Lab_1/Task_2/test_wgen1.vhd|E:/Users/Sean/Documents/GitHub/CS305/Lab_1/Task_2/wgen1.vhd|
+Z8 !s107 E:/Users/Sean/Documents/GitHub/CS305/Lab_1/Task_2/wgen1.vhd|E:/Users/Sean/Documents/GitHub/CS305/Lab_1/Task_2/test_wgen1.vhd|
+Z9 o-work work -O0
+Z10 tExplicit 1
+Atest
+Z11 DEx4 work 10 test_wgen1 0 22 Y=g<Lc6FT9]N8KHXYoZ]G2
+l14
+L5
+Z12 VE8SWS8>`z1E^zFA]=4;ZX1
+Z13 !s100 Dh01J12cdFgH68`?abO1A0
+R5
+32
+!i10b 1
+R6
+R7
+R8
+R9
+R10
+Ewgen1
+Z14 w1615892298
+R2
+Z15 8E:/Users/Sean/Documents/GitHub/CS305/Lab_1/Task_2/wgen1.vhd
+Z16 FE:/Users/Sean/Documents/GitHub/CS305/Lab_1/Task_2/wgen1.vhd
+l0
+L1
+V=C;:VP5_OX?WMLD<nQo:g2
+!s100 HLJzK[C[C67aZjEH8NXMh2
+R5
+32
+!i10b 1
+R6
+R7
+R8
+R9
+R10
+Abehaviour
+Z17 DEx4 work 5 wgen1 0 22 =C;:VP5_OX?WMLD<nQo:g2
+l8
+L6
+V5lC<UPWb?cWQDoklB>0EL3
+!s100 W7G@cId3gdNmGc[[L=CE`0
+R5
+32
+!i10b 1
+R6
+R7
+R8
+R9
+R10
