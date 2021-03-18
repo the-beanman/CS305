@@ -26,9 +26,8 @@ begin
 		wait for 10 ns;
 	end process;
 	
-	process
+	process(A1,B1,C1)
 	begin
-		
 		case W is
 			when "000" => Z1 <= (A1 or B1);
 			when "001" => Z1 <= (B1 or C1);
@@ -39,8 +38,6 @@ begin
 			when "110" => Z1 <= C1;
 			when "111" => Z1 <= '1';
 		end case;
-		
-		wait for 1 ns;
 	end process;
 		
 		A <= A1 when Enable = '1' else '0';

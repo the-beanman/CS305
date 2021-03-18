@@ -4,7 +4,7 @@ z0
 !s11e MIXED_VERSIONS
 13
 cModel Technology
-dE:\Users\Sean\Documents\GitHub\CS305\Lab_1\b
+Z0 dE:\Users\Sean\Documents\GitHub\CS305\Lab_1\b
 T_opt
 !s110 1616015653
 VJ:X9kS_A8]2K`Hc1_>^CK0
@@ -14,77 +14,78 @@ o-quiet -auto_acc_if_foreign -work work +acc
 tCvgOpt 0
 n@_opt
 OE;O;2020.2;71
+R0
 Etest_wgen2
-Z0 w1616015571
-!i122 0
-Z1 d//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b
-Z2 8//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/test_wgen2.vhd
-Z3 F//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/test_wgen2.vhd
+Z1 w1616015571
+!i122 2
+Z2 d//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b
+Z3 8//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/test_wgen2.vhd
+Z4 F//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/test_wgen2.vhd
 l0
 L2 1
 VnnmLQ??lDAz0Qe[C8;MkP1
 !s100 cMNj;]JCkVflK9F1KT7Sj1
-Z4 OE;C;2020.2;71
+Z5 OE;C;2020.2;71
 32
-Z5 !s110 1616015628
+Z6 !s110 1616029563
 !i10b 1
-Z6 !s108 1616015628.000000
-Z7 !s90 -reportprogress|300|-work|work|//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/test_wgen2.vhd|
-Z8 !s107 //files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/test_wgen2.vhd|
+Z7 !s108 1616029563.000000
+Z8 !s90 -reportprogress|300|-work|work|//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/test_wgen2.vhd|
+Z9 !s107 //files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/test_wgen2.vhd|
 !i113 0
-Z9 o-work work
-Z10 tExplicit 1 CvgOpt 0
+Z10 o-work work
+Z11 tExplicit 1 CvgOpt 0
 Atest
 DEx4 work 10 test_wgen2 0 22 nnmLQ??lDAz0Qe[C8;MkP1
-!i122 0
+!i122 2
 l15
 L5 22
 VY[1aFboVc;73gaD11oSY[0
 !s100 SK0Al_M_VGX@afWT_SHcf3
-R4
-32
 R5
-!i10b 1
+32
 R6
+!i10b 1
 R7
 R8
-!i113 0
 R9
+!i113 0
 R10
+R11
 Ewgen2
-R0
-!i122 1
 R1
-Z11 8//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/wgen2.vhd
-Z12 F//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/wgen2.vhd
+!i122 3
+R2
+Z12 8//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/wgen2.vhd
+Z13 F//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/wgen2.vhd
 l0
 L1 1
 VjD1UOL;9ob1Vl633iJ7gm3
 !s100 [>fWV9iN`U=Zf7zDf2z4a2
-R4
-32
 R5
+32
+Z14 !s110 1616029564
 !i10b 1
-R6
-Z13 !s90 -reportprogress|300|-work|work|//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/wgen2.vhd|
-Z14 !s107 //files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/wgen2.vhd|
+Z15 !s108 1616029564.000000
+Z16 !s90 -reportprogress|300|-work|work|//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/wgen2.vhd|
+Z17 !s107 //files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/b/wgen2.vhd|
 !i113 0
-R9
 R10
+R11
 Abehaviour
-DEx4 work 5 wgen2 0 22 jD1UOL;9ob1Vl633iJ7gm3
-!i122 1
+Z18 DEx4 work 5 wgen2 0 22 jD1UOL;9ob1Vl633iJ7gm3
+!i122 3
 l9
-L7 45
-VOYS6DUNS^KlJ@?<bMW@F21
-!s100 `9Vc?XK6DSOo4zbbBhHf`2
-R4
-32
+Z19 L7 45
+Z20 VOYS6DUNS^KlJ@?<bMW@F21
+Z21 !s100 `9Vc?XK6DSOo4zbbBhHf`2
 R5
-!i10b 1
-R6
-R13
+32
 R14
+!i10b 1
+R15
+R16
+R17
 !i113 0
-R9
 R10
+R11

@@ -1,0 +1,105 @@
+m255
+K4
+z2
+!s11e vcom 2020.2 2020.04, Apr 19 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/Task_1
+T_opt
+!s110 1616029049
+VjKdE0UeBVagkl0[iCK<bD3
+Z1 04 12 7 work test_counter my_test 1
+=1-e454e87a7b0a-6052a578-21f-3224
+o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OE;O;2020.2;71
+R0
+T_opt1
+!s110 1616029077
+V@G?Rcf1M^j6CLA4c?:5dl0
+R1
+=1-e454e87a7b0a-6052a595-4d-2bec
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+R0
+Ecounter
+Z4 w1616015571
+!i122 2
+R0
+Z5 8//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/Task_1/counter.vhd
+Z6 F//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/Task_1/counter.vhd
+l0
+L1 1
+Vi04Ck4@:Z95g9aBV^`Mb40
+!s100 fLTQoE^35MU<`gF5m?ViD2
+Z7 OE;C;2020.2;71
+32
+Z8 !s110 1616029812
+!i10b 1
+Z9 !s108 1616029812.000000
+Z10 !s90 -reportprogress|300|-work|work|//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/Task_1/counter.vhd|
+Z11 !s107 //files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/Task_1/counter.vhd|
+!i113 0
+Z12 o-work work
+Z13 tExplicit 1 CvgOpt 0
+Abehaviour
+DEx4 work 7 counter 0 22 i04Ck4@:Z95g9aBV^`Mb40
+!i122 2
+l7
+L6 17
+V=?XgXM=gIoDJZ:Ce8YUR<0
+!s100 YB:?fOOm5i;PYzhJ:U8=V2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 0
+R12
+R13
+Etest_counter
+R4
+!i122 3
+R0
+Z14 8//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/Task_1/test_counter.vhd
+Z15 F//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/Task_1/test_counter.vhd
+l0
+L3 1
+V;SXadMPV3:19:n:R;f[Qd3
+!s100 jjb^:YV?OBWKG>h9V6B5z2
+R7
+32
+R8
+!i10b 1
+R9
+Z16 !s90 -reportprogress|300|-work|work|//files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/Task_1/test_counter.vhd|
+Z17 !s107 //files.auckland.ac.nz/myhome/Documents/GitHub/CS305/Lab_1/Task_1/test_counter.vhd|
+!i113 0
+R12
+R13
+Amy_test
+Z18 DEx4 work 12 test_counter 0 22 ;SXadMPV3:19:n:R;f[Qd3
+!i122 3
+l14
+Z19 L6 28
+Z20 V4bA64cJ>zPhe@mIC_Y^Hc2
+Z21 !s100 GhH9bJ`^l?_J6`aSm0`<?1
+R7
+32
+R8
+!i10b 1
+R9
+R16
+R17
+!i113 0
+R12
+R13
